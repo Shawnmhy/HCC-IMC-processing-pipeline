@@ -33,4 +33,3 @@ for core in range(1,38):
 
 
     os.system('python graph2vec.py --input-path' + ' ' + PATH + '/' + ' ' +'--output-path' + ' ' + OT_File)
-
