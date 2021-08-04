@@ -1,5 +1,6 @@
 """Graph2Vec module."""
 
+
 import json
 import glob
 import hashlib
