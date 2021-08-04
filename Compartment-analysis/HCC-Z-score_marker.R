@@ -239,7 +239,6 @@ for(sType in mType){
     
     
     cid <- cid + 1
-    
   }
   
   
