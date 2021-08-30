@@ -43,8 +43,8 @@
     <li>
       <a href="#System requirement">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Operating systems">Operating systems</a></li>
+        <li><a href="#Software dependencies">Software dependencies</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -87,24 +87,7 @@ The computational pipeline was developed using the following softwares:
 * Python version 3.8
 * Pycharm Python IDE version 2020.3.3.
 * QuPath version 0.2.0-m12.
-* 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
+* StarDist (Deep-learning based segmentation algorithm)
 
 
 <!-- USAGE EXAMPLES -->
