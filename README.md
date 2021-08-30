@@ -89,21 +89,36 @@ The computational pipeline was developed using the following softwares:
 * Pycharm Python IDE version 2020.3.3.
 * QuPath version 0.2.0-m12.
 * StarDist (Deep-learning based segmentation algorithm)
+* R packages listed at the beginning of each R script.
 
+
+<!-- INSTALLATION GUIDE -->
+## Installation guide
+
+### Instructions
+To install the pipeline, simply download the codes and run from local R or Python compiler.
+
+## Installation time
+* Installation time all dependencies should take no longer than 30 minutes.
+* Codes can be readily used upon downloading and do not require extra installations.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The pipeline consists of three components: 
+The pipeline consists of four components:
+* First-order property characterization
+* Compartment analysis
+* Mixed analysis
+* Network analysis
+
+Codes for each part are uploaded to the specific folder for reproducibility.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- DEMO -->
+## Demo
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
+To run the codes, please visit our [Code Ocean repository]()
 
 <!-- CONTRIBUTING -->
 ## Contributing
