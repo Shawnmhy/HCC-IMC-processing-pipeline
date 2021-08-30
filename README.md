@@ -39,12 +39,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#System requirement">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -69,19 +66,16 @@
 
 
 
+<!-- SYSTEM REQUIREMENT -->
+## System requirement
 
-### Built With
+The computational pipeline was developed on the following operating system:
+* Dell Precision 5820 computer with Windows 10 Pro for Workstations operating systems version.
+* Processor: Intel(R) Xeon(R) W-2245 CPU @ 3.90GHz 3.91GHz
+* 32GB RAM
+* 64-bit operating system, x64-based processor.
 
-* []()
-* []()
-* []()
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
