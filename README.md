@@ -88,8 +88,9 @@ The computational pipeline was developed using the following softwares:
 * Python version 3.8
 * Pycharm Python IDE version 2020.3.3.
 * QuPath version 0.2.0-m12.
-* StarDist (Deep-learning based segmentation algorithm)
+* StarDist (Deep-learning based segmentation algorithm).
 * R packages listed at the beginning of each R script.
+* Morpheus web-based heatmap generator.
 
 
 <!-- INSTALLATION GUIDE -->
