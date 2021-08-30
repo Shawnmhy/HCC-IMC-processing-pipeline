@@ -41,7 +41,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#System requirement">Getting Started</a>
+      <a href="#system-requirement">System requirement</a>
       <ul>
         <li><a href="#Operating systems">Operating systems</a></li>
         <li><a href="#Software dependencies">Software dependencies</a></li>
