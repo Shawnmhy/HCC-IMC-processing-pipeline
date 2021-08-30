@@ -69,6 +69,8 @@
 <!-- SYSTEM REQUIREMENT -->
 ## System requirement
 
+### Operating systems
+
 The computational pipeline was developed on the following operating system:
 * Dell Precision 5820 computer with Windows 10 Pro for Workstations operating systems version.
 * Processor: Intel(R) Xeon(R) W-2245 CPU @ 3.90GHz 3.91GHz
@@ -77,8 +79,15 @@ The computational pipeline was developed on the following operating system:
 
 
 
-### Prerequisites
+### Software dependencies
 
+The computational pipeline was developed using the following softwares:
+* R version 3.5.3.
+* Rstudio Desktop version 1.4.
+* Python version 3.8
+* Pycharm Python IDE version 2020.3.3.
+* QuPath version 0.2.0-m12.
+* 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
