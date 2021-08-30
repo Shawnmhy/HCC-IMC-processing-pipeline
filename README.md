@@ -64,9 +64,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**This project proposed computational pipeline to analyze the tumor microenvironment in hepatocellular carcinoma patients treated with neoadjuvant cabozantinib and nivolumab. The cohort was previously described in our**
-[[Nature Cancer paper]](https://www.nature.com/articles/s43018-021-00234-4)
+**This project proposed a computational pipeline to analyze the tumor microenvironment in hepatocellular carcinoma patients treated with neoadjuvant cabozantinib and nivolumab. The cohort was previously described in our**
+[Nature Cancer paper](https://www.nature.com/articles/s43018-021-00234-4)
 
 
 
