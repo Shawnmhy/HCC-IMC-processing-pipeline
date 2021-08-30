@@ -103,7 +103,7 @@ To install the pipeline, simply download the codes and run from local R or Pytho
 * Codes can be readily used upon downloading and do not require extra installations.
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 
 The pipeline consists of four components:
 * First-order property characterization
