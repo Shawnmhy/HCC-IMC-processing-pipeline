@@ -69,6 +69,7 @@
 <!-- SYSTEM REQUIREMENT -->
 ## System requirement
 
+<!-- OPERATING SYSTEMS -->
 ### Operating systems
 
 The computational pipeline was developed on the following operating system:
